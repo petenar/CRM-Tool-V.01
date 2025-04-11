@@ -4,9 +4,9 @@ import mysql.connector
 
 dataBase = mysql.connector.connect(
     host = 'localhost',
-    port = 3308,
-    user = 'root',
-    passwd = 'Z@fighterdbz999'
+    port = 3306,
+    user = '[youruser]',
+    passwd = '[yourpassword]'
     
     )
 
